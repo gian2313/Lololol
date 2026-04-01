@@ -24,18 +24,18 @@ const CONFIG = {
         first: {
             text: "Do you wanna hangout?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
-            noBtn: "No",                                               // Text for "No" button
+            noBtn: "No am buzy",                                               // Text for "No" button
             secretAnswer: "Of course damn straight bruh😌😌"           // Secret hover message
         },
         second: {
-            text: "What's the fun level?",                          // For the love meter
+            text: "What's the percentage?",                          // For the love meter
             startText: "This much!",                                   // Text before the percentage
             nextBtn: "Next"                                         // Text for the next button
         },
         third: {
-            text: " Let's watch the spiderman movie together🌹", // The big question!
+            text: " Let's watch the spiderman movie too🌹", // The big question!
             yesBtn: "Yeaaa",                                             // Text for "Yes" button
-            noBtn: "No"                                                 // Text for "No" button
+            noBtn: "Nahh"                                                 // Text for "No" button
         }
     },
 
@@ -49,7 +49,7 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 😌😌😌💓",
+        title: "Dammnnn we ball! 😌😌😌💓",
         message: "I'll make it rlly funnn",
         emojis: "🎁❤️💕"  // These will bounce around
     },
