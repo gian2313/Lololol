@@ -22,7 +22,7 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Let's hangout sometime we're free",                                    // First interaction
+            text: "Hangout after midterms?",                                    // First interaction
             yesBtn: "Coolcool",                                             // Text for "Yes" button
             noBtn: "No am gonna be buzy lockin twin",                                               // Text for "No" button
             secretAnswer: "Of course damn straight bruh😌😌"           // Secret hover message
