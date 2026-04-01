@@ -28,7 +28,7 @@ const CONFIG = {
             secretAnswer: "Of course damn straight bruh😌😌"           // Secret hover message
         },
         second: {
-            text: "What's the percentage?",                          // For the love meter
+            text: "Fun level ay?",                          // For the love meter
             startText: "This much!",                                   // Text before the percentage
             nextBtn: "Next"                                         // Text for the next button
         },
@@ -42,16 +42,16 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "AW HECK YEAH",  // Shows when they go past 5000%
-        high: "Damn brooo we're cookin 🚀💝",              // Shows when they go past 1000%
-        normal: "Aw sweet!"                           // Shows when they go past 100%
+        extreme: "uy",  // Shows when they go past 5000%
+        high: "UYYYYYY",              // Shows when they go past 1000%
+        normal: "DAMMNNN nyahaha"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Dammnnn we ball! 😌😌😌💓",
         message: "I'll make it rlly funnn",
-        emojis: "🎁❤️💕"  // These will bounce around
+        emojis: "❤️"  // These will bounce around
     },
 
     // Color scheme for the website
